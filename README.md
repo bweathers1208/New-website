@@ -1,2 +1,2 @@
 # New-website
-just green-squarin' it up! Feel free to dismiss this without pulling into the actual repository. Wasn't ready to commit my own stuff with my website yet so figured I'd open a random pull request like Kimberly suggested!
+just green-squarin' it up! Feel free to dismiss this without pulling into the actual repository. 
